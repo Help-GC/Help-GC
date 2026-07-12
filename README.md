@@ -11,4 +11,8 @@
     src="https://raw.githubusercontent.com/Help-GC/Help-GC/main/.github/assets/snake.svg"
     alt="Snake animation"
   />
+  <img
+    src="https://raw.githubusercontent.com/Help-GC/Help-GC/main/.github/assets/snake.svg"
+    alt="Snake animation"
+  />
 </picture>
